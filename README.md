@@ -8,7 +8,6 @@ I'm Jaini, Future Data Scientist from <img src="https://user-images.githubuserco
 - 🌱 I’m currently learning Big Data, Deep Learning.
 - 🍔 Currently developing TasteBuds.
 - 📫 How to reach me: bhavsar.jaini@gmail.com
-- 🌐 Checkout my website: https://jaini-bhavsar.github.io/JainiBhavsar.github.io/
 - :sparkling_heart: Fascinated about space.
 - 🎯 In the near future, I hope to make a worthwhile contribution to the ever-evolving field of Data Science.
 

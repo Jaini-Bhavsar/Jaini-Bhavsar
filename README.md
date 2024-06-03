@@ -1,13 +1,12 @@
 <img src="https://user-images.githubusercontent.com/71366844/147859986-ba424b82-5776-4a2c-9900-d5266b43be7d.gif">
 
-## A Little bit About Me:
+## A Little Bit About Me:
 
 I'm Jaini, Future Data Scientist from <img src="https://user-images.githubusercontent.com/71366844/147859839-85d9cb51-2b14-404e-9db3-eee9e33b982d.png" width="20px" height="15px"> India, currently living in <img src="https://user-images.githubusercontent.com/71366844/147859870-a25da608-612c-4640-9671-5420a15bd3d4.png" width="20px" height="15px"> New Jersey, United States of America.
 
-- 🎓 I’m currently pursuing Master of Science in Data Science.
+- 🎓 I recently pursued a degree in Master of Science in Data Science.
 - 🌱 I’m currently learning Big Data, Deep Learning.
 - 🍔 Currently developing TasteBuds.
-- 📫 How to reach me: bhavsar.jaini@gmail.com
 - :sparkling_heart: Fascinated about space.
 - 🎯 In the near future, I hope to make a worthwhile contribution to the ever-evolving field of Data Science.
 
